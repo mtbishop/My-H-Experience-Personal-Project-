@@ -1,0 +1,44 @@
+{
+    "Halo: Reach Legendary": {
+        "Winter Contingency": "10:38",
+        "ONI: Sword Base": "11:06", 
+        "Nightfall": "5:47",
+        "Tip of the Spear":  "24:01",
+        "Long Night of Solace": "33:32"
+    },
+
+    "Halo: CE Legendary": {
+        "The Pillar of Autumn": "09:09",
+        "Halo": "27:46",
+        "The Truth and Reconciliation": "01:37:20",
+        "The Silent Cartographer": "55:29"
+    },
+
+    "Halo 2 Legendary": {
+        "Cario Station": "11:18",
+        "Outskirts": "04:36",
+        "Metropolis": "08:18",
+        "The Arbiter": "07:36"
+    }
+    ,
+        "Halo: Reach Legendary2": {
+            "Winter Contingency": "10:38",
+            "ONI: Sword Base": "11:06",
+            "Nightfall": "5:47",
+            "Tip of the Spear": "24:01",
+            "Long Night of Solace": "33:32"
+        },
+        "Halo: CE Legendary2": {
+            "The Pillar of Autumn": "09:09",
+            "Halo": "27:46",
+            "The Truth and Reconciliation": "01:37:20",
+            "The Silent Cartographer": "55:29"
+        },
+        "Halo 2 Legendary2": {
+            "Cario Station": "11:18",
+            "Outskirts": "04:36",
+            "Metropolis": "08:18",
+            "The Arbiter": "07:36"
+        }
+    
+}
