@@ -45,202 +45,209 @@ let HaloReachLegendary = {
 
 let HaloCELegendary = {
   ThePillarofAutumn: {
-    levelName: '',
+    levelName: 'The Pillar of Autumn',
     time: '09:09',
   },
   Halo: {
-    levelName: '',
+    levelName: 'Halo',
     time: '27:46',
   },
   TheTruthandReconciliation: {
-    levelName: '',
+    levelName: 'The Truth and Reconciliation',
     time: '01:37:20',
   },
   TheSilentCartographer: {
-    levelName: '',
+    levelName: 'The Silent Cartographer',
     time: '55:29',
   },
   AssaultontheControlRoom: {
-    levelName: '',
+    levelName: 'Assault on the Control Room',
     time: '06:20',
   },
   threeFourThreeGuiltySpark: {
-    levelName: '',
+    levelName: '343 Guilty Spark',
     time: '09:03',
   },
   TheLibrary: {
-    levelName: '',
+    levelName: 'The Library',
     time: '32:19',
   },
   TwoBetrayals: {
-    levelName: '',
+    levelName: 'Two Betrayals',
     time: '01:19:22',
   },
   TheMaw: {
-    levelName: '',
+    levelName: 'The Maw',
     time: '13:15',
   },
 };
 
 let Halo2Legendary = {
   CarioStation: {
-    levelName: '',
+    levelName: 'Cario Station',
     time: '11:18',
   },
   Outskirts: {
-    levelName: '',
+    levelName: 'Outskirts',
     time: '04:36',
   },
   Metropolis: {
-    levelName: '',
+    levelName: 'Metropolis',
     time: '08:18',
   },
   TheArbiter: {
-    levelName: '',
+    levelName: 'The Arbiter',
     time: '07:36',
   },
   TheOracle: {
-    levelName: '',
+    levelName: 'The Oracle',
     time: '16:46',
   },
   DeltaHalo: {
-    levelName: '',
+    levelName: 'Delta Halo',
     time: '03:58',
   },
   Regret: {
-    levelName: '',
+    levelName: 'Regret',
     time: '17:44',
   },
   SacredIcon: {
-    levelName: '',
+    levelName: 'Sacred Icon',
     time: '12:04',
   },
   QuarantineZone: {
-    levelName: '',
+    levelName: 'Quarantine Zone',
     time: '08:19',
   },
   Gravemind: {
-    levelName: '',
+    levelName: 'Gravemind',
     time: '29:52',
   },
   Uprising: {
-    levelName: '',
+    levelName: 'Uprising',
     time: '01:59',
   },
   HighCharity: {
-    levelName: '',
+    levelName: 'High Charity',
     time: '05:21',
   },
   TheGreatJourney: {
-    levelName: '',
+    levelName: 'The Great Journey',
     time: '17:40',
   },
 };
 let Halo3Legendary = {
   Sierra117: {
-    levelName: '',
+    levelName: 'Sierra 117',
     time: '31:49',
   },
   CrowsNest: {
-    levelName: '',
+    levelName: 'Crows Nest',
     time: '19:09',
   },
   TsavoHighway: {
-    levelName: '',
+    levelName: 'Tsavo Highway',
     time: '13:55',
   },
   TheStorm: {
-    levelName: '',
+    levelName: 'The Storm',
     time: '28:33',
   },
   Floodgate: {
-    levelName: '',
+    levelName: 'Floodgate',
     time: '10:13',
   },
   TheArk: {
-    levelName: '',
+    levelName: 'The Ark',
     time: '42:33',
   },
   TheCovenant: {
-    levelName: '',
+    levelName: 'The Covenant',
     time: '01:00:22',
   },
   Cortana: {
-    levelName: '',
+    levelName: 'Cortana',
     time: '34:00',
   },
   Halo: {
-    levelName: '',
+    levelName: 'Halo',
     time: '17:06',
   },
 };
 
 let Halo3ODSTLegendary = {
   TayariPlaza: {
-    levelName: '',
+    levelName: 'Tayari Plaza',
     time: '10:26',
   },
   UpliftReserve: {
-    levelName: '',
+    levelName: 'Uplift Reserve',
     time: '07:23',
   },
   KizingoBoulevard: {
-    levelName: '',
+    levelName: 'Kizingo Boulevard',
     time: '16:57',
   },
   ONIAlphaSite: {
-    levelName: '',
+    levelName: 'ONI Alpha Site',
     time: 'TBD',
   },
   NMPDHQ: {
-    levelName: '',
+    levelName: 'NMPDHQ',
     time: 'TBD',
   },
   KikowaniStation: {
-    levelName: '',
+    levelName: 'Kikowani Station',
     time: 'TBD',
   },
   DataHive: {
-    levelName: '',
+    levelName: 'Data Hive',
     time: 'TBD',
   },
   CoastalHighway: {
-    levelName: '',
+    levelName: 'Coastal Highway',
     time: 'TBD',
   },
 };
 
 let Halo4Legendary = {
   Dawn: {
-    levelName: '',
+    levelName: 'Dawn',
     time: '19:45',
   },
   Requiem: {
-    levelName: '',
+    levelName: 'Requiem',
     time: '30:06',
   },
   Forerunner: {
-    levelName: '',
+    levelName: 'Forerunner',
     time: 'TBD',
   },
   Infinity: {
-    levelName: '',
+    levelName: 'Infinity',
     time: 'TBD',
   },
   Reclaimer: {
-    levelName: '',
+    levelName: 'Reclaimer',
     time: 'TBD',
   },
   Shutdown: {
-    levelName: '',
+    levelName: 'Shutdown',
     time: 'TBD',
   },
   Composer: {
-    levelName: '',
+    levelName: 'Composer',
     time: 'TBD',
   },
   Midnight: {
-    levelName: '',
+    levelName: 'Midnight',
+    time: 'TBD',
+  },
+};
+
+let HaloInfiniteLegendary = {
+  firstLevel: {
+    levelName: 'TBD',
     time: 'TBD',
   },
 };
@@ -296,79 +303,298 @@ function Times() {
         <Row id="haloCETitle">
           <Col>
             <div className="titleText">Halo CE Legendary: </div>
-            <div className="level1"></div>
-            <div className="level2"></div>
-            <div className="level3"></div>
-            <div className="level4"></div>
-            <div className="level5"></div>
-            <div className="level6"></div>
-            <div className="level7"></div>
-            <div className="level8"></div>
+            <div className="level1">
+              {' '}
+              {HaloCELegendary.ThePillarofAutumn.levelName}:{' '}
+              {HaloCELegendary.ThePillarofAutumn.time}
+            </div>
+            <div className="level2">
+              {' '}
+              {HaloCELegendary.Halo.levelName}: {HaloCELegendary.Halo.time}
+            </div>
+            <div className="level3">
+              {' '}
+              {HaloCELegendary.TheTruthandReconciliation.levelName}:{' '}
+              {HaloCELegendary.TheTruthandReconciliation.time}
+            </div>
+            <div className="level4">
+              {' '}
+              {HaloCELegendary.TheSilentCartographer.levelName}:{' '}
+              {HaloCELegendary.TheSilentCartographer.time}
+            </div>
+            <div className="level5">
+              {' '}
+              {HaloCELegendary.AssaultontheControlRoom.levelName}:{' '}
+              {HaloCELegendary.AssaultontheControlRoom.time}
+            </div>
+            <div className="level6">
+              {' '}
+              {HaloCELegendary.threeFourThreeGuiltySpark.levelName}:{' '}
+              {HaloCELegendary.threeFourThreeGuiltySpark.time}
+            </div>
+            <div className="level7">
+              {' '}
+              {HaloCELegendary.TheLibrary.levelName}:{' '}
+              {HaloCELegendary.TheLibrary.time}
+            </div>
+            <div className="level8">
+              {' '}
+              {HaloCELegendary.TwoBetrayals.levelName}:{' '}
+              {HaloCELegendary.TwoBetrayals.time}
+            </div>
+            <div className="level9">
+              {' '}
+              {HaloCELegendary.TheMaw.levelName}: {HaloCELegendary.TheMaw.time}
+            </div>
           </Col>
         </Row>
         <Row id="halo2Title">
           <Col>
             <div className="titleText">Halo 2 Legendary: </div>
-            <div className="level1"></div>
-            <div className="level2"></div>
-            <div className="level3"></div>
-            <div className="level4"></div>
-            <div className="level5"></div>
-            <div className="level6"></div>
-            <div className="level7"></div>
-            <div className="level8"></div>
+            <div className="level1">
+              {' '}
+              {Halo2Legendary.CarioStation.levelName}:{' '}
+              {Halo2Legendary.CarioStation.time}
+            </div>
+            <div className="level2">
+              {' '}
+              {Halo2Legendary.Outskirts.levelName}:{' '}
+              {Halo2Legendary.Outskirts.time}
+            </div>
+            <div className="level3">
+              {' '}
+              {Halo2Legendary.Metropolis.levelName}:{' '}
+              {Halo2Legendary.Metropolis.time}
+            </div>
+            <div className="level4">
+              {' '}
+              {Halo2Legendary.TheArbiter.levelName}:{' '}
+              {Halo2Legendary.TheArbiter.time}
+            </div>
+            <div className="level5">
+              {' '}
+              {Halo2Legendary.TheOracle.levelName}:{' '}
+              {Halo2Legendary.TheOracle.time}
+            </div>
+            <div className="level6">
+              {' '}
+              {Halo2Legendary.DeltaHalo.levelName}:{' '}
+              {Halo2Legendary.DeltaHalo.time}
+            </div>
+            <div className="level7">
+              {' '}
+              {Halo2Legendary.Regret.levelName}: {Halo2Legendary.Regret.time}
+            </div>
+            <div className="level8">
+              {' '}
+              {Halo2Legendary.SacredIcon.levelName}:{' '}
+              {Halo2Legendary.SacredIcon.time}
+            </div>
+            <div className="level9">
+              {' '}
+              {Halo2Legendary.QuarantineZone.levelName}:{' '}
+              {Halo2Legendary.QuarantineZone.time}
+            </div>
+            <div className="level10">
+              {' '}
+              {Halo2Legendary.Gravemind.levelName}:{' '}
+              {Halo2Legendary.Gravemind.time}
+            </div>
+            <div className="level11">
+              {' '}
+              {Halo2Legendary.Uprising.levelName}:{' '}
+              {Halo2Legendary.Uprising.time}
+            </div>
+            <div className="level12">
+              {' '}
+              {Halo2Legendary.HighCharity.levelName}:{' '}
+              {Halo2Legendary.HighCharity.time}
+            </div>
+            <div className="level13">
+              {' '}
+              {Halo2Legendary.TheGreatJourney.levelName}:{' '}
+              {Halo2Legendary.TheGreatJourney.time}
+            </div>
           </Col>
         </Row>
         <Row id="halo3Title">
           <Col>
             <div className="titleText">Halo 3 Legendary: </div>
-            <div className="level1"></div>
-            <div className="level2"></div>
-            <div className="level3"></div>
-            <div className="level4"></div>
-            <div className="level5"></div>
-            <div className="level6"></div>
-            <div className="level7"></div>
-            <div className="level8"></div>
+            <div className="level1">
+              {' '}
+              {Halo3Legendary.Sierra117.levelName}:{' '}
+              {Halo3Legendary.Sierra117.time}
+            </div>
+            <div className="level2">
+              {' '}
+              {Halo3Legendary.CrowsNest.levelName}:{' '}
+              {Halo3Legendary.CrowsNest.time}
+            </div>
+            <div className="level3">
+              {' '}
+              {Halo3Legendary.TsavoHighway.levelName}:{' '}
+              {Halo3Legendary.TsavoHighway.time}
+            </div>
+            <div className="level4">
+              {' '}
+              {Halo3Legendary.TheStorm.levelName}:{' '}
+              {Halo3Legendary.TheStorm.time}
+            </div>
+            <div className="level5">
+              {' '}
+              {Halo3Legendary.Floodgate.levelName}:{' '}
+              {Halo3Legendary.Floodgate.time}
+            </div>
+            <div className="level6">
+              {' '}
+              {Halo3Legendary.TheArk.levelName}: {Halo3Legendary.TheArk.time}
+            </div>
+            <div className="level7">
+              {' '}
+              {Halo3Legendary.TheCovenant.levelName}:{' '}
+              {Halo3Legendary.TheCovenant.time}
+            </div>
+            <div className="level8">
+              {' '}
+              {Halo3Legendary.Cortana.levelName}: {Halo3Legendary.Cortana.time}
+            </div>
+            <div className="level9">
+              {' '}
+              {Halo3Legendary.Halo.levelName}: {Halo3Legendary.Halo.time}
+            </div>
           </Col>
         </Row>
         <Row id="halo3ODSTTitle">
           <Col>
             <div className="titleText">Halo 3 ODST Legendary: </div>
-            <div className="level1"></div>
-            <div className="level2"></div>
-            <div className="level3"></div>
-            <div className="level4"></div>
-            <div className="level5"></div>
-            <div className="level6"></div>
-            <div className="level7"></div>
-            <div className="level8"></div>
+            <div className="level1">
+              {' '}
+              {Halo3ODSTLegendary.TayariPlaza.levelName}:{' '}
+              {Halo3ODSTLegendary.TayariPlaza.time}
+            </div>
+            <div className="level2">
+              {' '}
+              {Halo3ODSTLegendary.UpliftReserve.levelName}:{' '}
+              {Halo3ODSTLegendary.UpliftReserve.time}
+            </div>
+            <div className="level3">
+              {' '}
+              {Halo3ODSTLegendary.KizingoBoulevard.levelName}:{' '}
+              {Halo3ODSTLegendary.KizingoBoulevard.time}
+            </div>
+            <div className="level4">
+              {' '}
+              {Halo3ODSTLegendary.ONIAlphaSite.levelName}:{' '}
+              {Halo3ODSTLegendary.ONIAlphaSite.time}
+            </div>
+            <div className="level5">
+              {' '}
+              {Halo3ODSTLegendary.NMPDHQ.levelName}:{' '}
+              {Halo3ODSTLegendary.NMPDHQ.time}
+            </div>
+            <div className="level6">
+              {' '}
+              {Halo3ODSTLegendary.KikowaniStation.levelName}:{' '}
+              {Halo3ODSTLegendary.KikowaniStation.time}
+            </div>
+            <div className="level7">
+              {' '}
+              {Halo3ODSTLegendary.DataHive.levelName}:{' '}
+              {Halo3ODSTLegendary.DataHive.time}
+            </div>
+            <div className="level8">
+              {' '}
+              {Halo3ODSTLegendary.CoastalHighway.levelName}:{' '}
+              {Halo3ODSTLegendary.CoastalHighway.time}
+            </div>
           </Col>
         </Row>
         <Row id="halo4Title">
           <Col>
             <div className="titleText">Halo 4 Legendary: </div>
-            <div className="level1"></div>
-            <div className="level2"></div>
-            <div className="level3"></div>
-            <div className="level4"></div>
-            <div className="level5"></div>
-            <div className="level6"></div>
-            <div className="level7"></div>
-            <div className="level8"></div>
+            <div className="level1">
+              {' '}
+              {Halo4Legendary.Dawn.levelName}: {Halo4Legendary.Dawn.time}
+            </div>
+            <div className="level2">
+              {' '}
+              {Halo4Legendary.Requiem.levelName}: {Halo4Legendary.Requiem.time}
+            </div>
+            <div className="level3">
+              {' '}
+              {Halo4Legendary.Forerunner.levelName}:{' '}
+              {Halo4Legendary.Forerunner.time}
+            </div>
+            <div className="level4">
+              {' '}
+              {Halo4Legendary.Infinity.levelName}:{' '}
+              {Halo4Legendary.Infinity.time}
+            </div>
+            <div className="level5">
+              {' '}
+              {Halo4Legendary.Reclaimer.levelName}:{' '}
+              {Halo4Legendary.Reclaimer.time}
+            </div>
+            <div className="level6">
+              {' '}
+              {Halo4Legendary.Shutdown.levelName}:{' '}
+              {Halo4Legendary.Shutdown.time}
+            </div>
+            <div className="level7">
+              {' '}
+              {Halo4Legendary.Composer.levelName}:{' '}
+              {Halo4Legendary.Composer.time}
+            </div>
+            <div className="level8">
+              {' '}
+              {Halo4Legendary.Midnight.levelName}:{' '}
+              {Halo4Legendary.Midnight.time}
+            </div>
           </Col>
         </Row>
         <Row id="haloInfiniteTitle">
           <Col>
             <div className="titleText">Halo Infinite Legendary: </div>
-            <div className="level1"></div>
-            <div className="level2"></div>
-            <div className="level3"></div>
-            <div className="level4"></div>
-            <div className="level5"></div>
-            <div className="level6"></div>
-            <div className="level7"></div>
-            <div className="level8"></div>
+            <div className="level1">
+              {' '}
+              {HaloInfiniteLegendary.firstLevel.levelName}:{' '}
+              {HaloInfiniteLegendary.firstLevel.time}
+            </div>
+            <div className="level2">
+              {' '}
+              {HaloInfiniteLegendary.firstLevel.levelName}:{' '}
+              {HaloInfiniteLegendary.firstLevel.time}
+            </div>
+            <div className="level3">
+              {' '}
+              {HaloInfiniteLegendary.firstLevel.levelName}:{' '}
+              {HaloInfiniteLegendary.firstLevel.time}
+            </div>
+            <div className="level4">
+              {' '}
+              {HaloInfiniteLegendary.firstLevel.levelName}:{' '}
+              {HaloInfiniteLegendary.firstLevel.time}
+            </div>
+            <div className="level5">
+              {' '}
+              {HaloInfiniteLegendary.firstLevel.levelName}:{' '}
+              {HaloInfiniteLegendary.firstLevel.time}
+            </div>
+            <div className="level6">
+              {' '}
+              {HaloInfiniteLegendary.firstLevel.levelName}:{' '}
+              {HaloInfiniteLegendary.firstLevel.time}
+            </div>
+            <div className="level7">
+              {' '}
+              {HaloInfiniteLegendary.firstLevel.levelName}:{' '}
+              {HaloInfiniteLegendary.firstLevel.time}
+            </div>
+            <div className="level8">
+              {' '}
+              {HaloInfiniteLegendary.firstLevel.levelName}:{' '}
+              {HaloInfiniteLegendary.firstLevel.time}
+            </div>
           </Col>
         </Row>
       </div>

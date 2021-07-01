@@ -7,6 +7,10 @@
   border: 1px solid black;
   padding: 1rem;
 }
+.titleText {
+  margin-top: 2.5rem;
+  font-size: 4rem;
+}
 
 .level1,
 .level2,
@@ -16,7 +20,11 @@
 .level6,
 .level7,
 .level8,
-.level9 {
+.level9,
+.level10,
+.level11,
+.level12,
+.level13 {
   border: 1px solid black;
   padding: 1rem;
 }
