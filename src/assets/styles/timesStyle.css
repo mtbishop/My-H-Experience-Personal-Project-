@@ -10,6 +10,7 @@
 .titleText {
   margin-top: 2.5rem;
   font-size: 4rem;
+  text-align: center;
 }
 
 .level1,
@@ -25,6 +26,25 @@
 .level11,
 .level12,
 .level13 {
-  border: 1px solid black;
-  padding: 1rem;
+  letter-spacing: 0;
+  line-height: 2.4;
+  font-weight: 0;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 1);
+  background: rgba(251, 255, 11, 0);
+  vertical-align: super;
+  -webkit-text-stroke: 4px rgba(0, 0, 0, 0);
+  text-shadow: -2px -2px 0px rgba(255, 0, 0, 0);
+  text-decoration: none wavy rgba(255, 0, 0, 0);
+  padding-left: 1rem;
+  border-top-left-radius: 10px;
+  border-top: 1px solid rgba(0, 0, 0, 1);
+  border-top-right-radius: 10px;
+  border-bottom: 1px solid rgba(0, 0, 0, 1);
+  border-bottom-right-radius: 10px;
+  border-left: 1px solid rgba(0, 0, 0, 1);
+  border-bottom-left-radius: 10px;
+  border-right: 1px solid rgba(0, 0, 0, 1);
+  margin-top: 1px;
+  margin-bottom: 1px;
 }

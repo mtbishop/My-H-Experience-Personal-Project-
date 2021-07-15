@@ -254,6 +254,7 @@ let HaloInfiniteLegendary = {
 
 function Times() {
   return (
+    <div>
     <Container>
       <div id="haloTitles">
         <Row id="haloReachTitle">
@@ -598,7 +599,370 @@ function Times() {
           </Col>
         </Row>
       </div>
+      <div class="grid">
+        <div
+          style={{
+      grid-column-start: "1"
+      grid-column-end: "1",
+      grid-row-start: "1",
+      grid-row-end: "1",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "2"
+      grid-column-end: "2",
+      grid-row-start: "1",
+      grid-row-end: "1",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "3"
+      grid-column-end: "3",
+      grid-row-start: "1",
+      grid-row-end: "1",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "4"
+      grid-column-end: "4",
+      grid-row-start: "1",
+      grid-row-end: "1",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "1"
+      grid-column-end: "1",
+      grid-row-start: "2",
+      grid-row-end: "2",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "2"
+      grid-column-end: "2",
+      grid-row-start: "2",
+      grid-row-end: "2",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "3"
+      grid-column-end: "3",
+      grid-row-start: "2",
+      grid-row-end: "2",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "4"
+      grid-column-end: "4",
+      grid-row-start: "2",
+      grid-row-end: "2",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "1"
+      grid-column-end: "1",
+      grid-row-start: "3",
+      grid-row-end: "3",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "2"
+      grid-column-end: "2",
+      grid-row-start: "3",
+      grid-row-end: "3",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "3"
+      grid-column-end: "3",
+      grid-row-start: "3",
+      grid-row-end: "3",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "4"
+      grid-column-end: "4",
+      grid-row-start: "3",
+      grid-row-end: "3",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "1"
+      grid-column-end: "1",
+      grid-row-start: "4",
+      grid-row-end: "4",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "2"
+      grid-column-end: "2",
+      grid-row-start: "4",
+      grid-row-end: "4",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "3"
+      grid-column-end: "3",
+      grid-row-start: "4",
+      grid-row-end: "4",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "4"
+      grid-column-end: "4",
+      grid-row-start: "4",
+      grid-row-end: "4",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "1"
+      grid-column-end: "1",
+      grid-row-start: "5",
+      grid-row-end: "5",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "2"
+      grid-column-end: "2",
+      grid-row-start: "5",
+      grid-row-end: "5",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "3"
+      grid-column-end: "3",
+      grid-row-start: "5",
+      grid-row-end: "5",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "4"
+      grid-column-end: "4",
+      grid-row-start: "5",
+      grid-row-end: "5",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "1"
+      grid-column-end: "1",
+      grid-row-start: "6",
+      grid-row-end: "6",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "2"
+      grid-column-end: "2",
+      grid-row-start: "6",
+      grid-row-end: "6",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "3"
+      grid-column-end: "3",
+      grid-row-start: "6",
+      grid-row-end: "6",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "4"
+      grid-column-end: "4",
+      grid-row-start: "6",
+      grid-row-end: "6",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "1"
+      grid-column-end: "1",
+      grid-row-start: "7",
+      grid-row-end: "7",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "2"
+      grid-column-end: "2",
+      grid-row-start: "7",
+      grid-row-end: "7",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "3"
+      grid-column-end: "3",
+      grid-row-start: "7",
+      grid-row-end: "7",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "4"
+      grid-column-end: "4",
+      grid-row-start: "7",
+      grid-row-end: "7",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "1"
+      grid-column-end: "1",
+      grid-row-start: "8",
+      grid-row-end: "8",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "2"
+      grid-column-end: "2",
+      grid-row-start: "8",
+      grid-row-end: "8",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "3"
+      grid-column-end: "3",
+      grid-row-start: "8",
+      grid-row-end: "8",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "4"
+      grid-column-end: "4",
+      grid-row-start: "8",
+      grid-row-end: "8",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "1"
+      grid-column-end: "1",
+      grid-row-start: "9",
+      grid-row-end: "9",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "2"
+      grid-column-end: "2",
+      grid-row-start: "9",
+      grid-row-end: "9",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "3"
+      grid-column-end: "3",
+      grid-row-start: "9",
+      grid-row-end: "9",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "4"
+      grid-column-end: "4",
+      grid-row-start: "9",
+      grid-row-end: "9",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "1"
+      grid-column-end: "1",
+      grid-row-start: "10",
+      grid-row-end: "10",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "2"
+      grid-column-end: "2",
+      grid-row-start: "10",
+      grid-row-end: "10",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "3"
+      grid-column-end: "3",
+      grid-row-start: "10",
+      grid-row-end: "10",
+      border: 1px "dashed",
+    }}
+        ></div>
+        <div
+          style={{
+      grid-column-start: "4"
+      grid-column-end: "4",
+      grid-row-start: 1"0",
+      grid-row-end: 1"0",
+      border: 1px "dashed",
+    }}
+        ></div>
+      </div>
     </Container>
+    </div>
   );
 }
 
